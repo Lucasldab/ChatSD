@@ -3,7 +3,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class ChatClient implements Runnable{
-    private static final String SERVER_ADDRESS = "192.168.0.23";
+    private static final String SERVER_ADDRESS = "192.168.0.42";
     private ClientSocket clientSocket;
     private Scanner scanner;
 
