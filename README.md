@@ -6,4 +6,5 @@ O chat está em uso para comunicação em múltiplos aparelhos, havendo necessid
 
 # Material de Estudos
 https://www.youtube.com/watch?v=MtAfYUW7fJ4
+
 https://www.youtube.com/watch?v=KPASiXiD9zQ
