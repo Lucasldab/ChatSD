@@ -33,7 +33,6 @@ public class ChatServer {
                     return;
                 System.out.printf("Msg recebida do cliente %s: %s\n", clientSocket.getRemoteSocketAddress(), msg);
                 sendMsgToAll(clientSocket, msg);
-                //clientSocket.sendMsg(msg);
             }
         } finally {
             clientSocket.close();
